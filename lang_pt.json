@@ -43,7 +43,8 @@
     "ccdesc": "Altere as informações ou insira os valores para personalizar as cores do chat e clique em salvar para aplicar as modificações",
     "adm": "Administradores",
     "ba": "Embaixadores",
-    "host": "Anfitriões e Coanfitriões",
+    "host": "Anfitriões",
+    "cohost": "Coanfitriões",
     "manager": "Coordenadores",
     "bouncer": "Seguranças",
     "rdj": "DJs Residentes",
@@ -121,5 +122,6 @@
     "mehflood": "O usuário %%NAME%% tem votado chato muitas vezes seguidas.",
     "uplvl": "Parabéns! Você acabou de receber uma promoção da administração e elevou seu nível :tada:.",
     "upxp": "Pooints! Você recebeu %%XP%% pontos de experiência, restando %%RE%% pontos para você avançar o nível atual.",
-    "pmfrom": "Mensagem privada de %%NAME%%"
+    "pmfrom": "Mensagem privada de %%NAME%%",
+    "pmto": "Mensagem privada enviada para %%NAME%%"
 }
