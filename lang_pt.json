@@ -36,7 +36,7 @@
     "chatlog": "Registrar mensagens",
     "setup": "Configurações",
     "reload": "Reiniciar extensão",
-    "pload": "Carregar configurações",
+    "pload": "Salvar configurações",
     "kill": "Desativar extensão",
     "otm": "Otimizar extensão",
     "lang": "Linguagens",
