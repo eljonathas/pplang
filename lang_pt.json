@@ -123,5 +123,10 @@
     "uplvl": "Parabéns! Você acabou de receber uma promoção da administração e elevou seu nível :tada:.",
     "upxp": "Pooints! Você recebeu %%XP%% pontos de experiência, restando %%RE%% pontos para você avançar o nível atual.",
     "pmfrom": "Mensagem privada de %%NAME%%",
-    "pmto": "Mensagem privada para %%NAME%%"
+    "pmto": "Mensagem privada para %%NAME%%",
+    "titleDev": "Desenvolvedor do PlugPlus",
+    "titleHelper": "Ajudante do PlugPlus",
+    "titleTranslator": "Tradutor do PlugPlus",
+    "titleDesigner": "Designer do PlugPlus",
+    "titleVip": "Usuário VIP do PlugPlus"
 }
