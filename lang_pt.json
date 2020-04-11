@@ -121,6 +121,7 @@
     "halertmsg": "A música atual foi tocada recentemente e consta no histórico da sala.",
     "fjmsg": "Seu amigo %%NAME%% acabou de entrar na sala.",
     "userenter": "O usuário %%NAME%% entrou na sala atual.",
+    "hasdeleted": "Deletado por: %%AUTHOR%%",
     "flmsgwps": "O seu amigo %%NAME%% saiu da sala na posíção %%POS%% da lista de espera de DJs.",
     "userexitwpos": "O usuário %%NAME%% saiu da sala na posíção %%POS%% da lista de espera de DJs.",
     "mehflood": "O usuário %%NAME%% tem votado chato muitas vezes seguidas.",
